@@ -14,7 +14,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "cordova-android": "^8.1.0",
-    "cordova-browser": "^6.0.0",
     "cordova-plugin-splashscreen": "git+https://github.com/apache/cordova-plugin-splashscreen.git"
   },
   "devDependencies": {
@@ -26,8 +25,7 @@
       "cordova-plugin-splashscreen": {}
     },
     "platforms": [
-      "android",
-      "browser"
+      "android"
     ]
   }
 }
